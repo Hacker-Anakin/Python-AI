@@ -19,11 +19,11 @@ Before getting started, make sure you have Python and Jupyter Notebook installed
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-repository/ai-jupyter-notebook.git
+git clone https://github.com/Hacker-Anakin/Python-AI.git
 cd ai-jupyter-notebook
 ```
 
-### 2. Set up a virtual environment (optional but recommended):
+### 2. Set up a virtual environment (optional):
 ```bash
 python -m venv env
 source env/bin/activate  # On Windows: env\Scripts\activate
@@ -75,6 +75,10 @@ Contributions are welcome! If you'd like to help build Phases 2, 3, and 4 or sug
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
+## Contact
+
+For any questions or feedback, please contact us at [cakely63@gmail.com](mailto:cakely63@gmail.com).
+
 ---
 
-This README will help guide users through Phase 1 and allow them to anticipate future updates for Phases 2, 3, and 4.
+Thank you for visiting the AI Python repository! We hope you enjoy exploring and interacting with our project.
