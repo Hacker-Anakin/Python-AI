@@ -8,7 +8,7 @@ Welcome to the **AI Python Jupyter Notebook**! This repository is designed to gu
 
 - [Installation](#installation)
 - [Phase 1: Setup and Data Manipulation](#phase-1-setup-and-data-manipulation)
-- [Phases 2, 3, and 4](#phases-2-3-and-4)
+- [Other Phases](#phases-2-3-and-4)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [License](#license)
@@ -47,14 +47,17 @@ In **Phase 1**, we will:
 - Utilize `pandas` for data manipulation and analysis.
 
 ### Key Notebooks:
-- **`phase1_data_manipulation.ipynb`**: This notebook covers how to work with data using `numpy` and `pandas`. It includes examples for creating arrays, basic mathematical operations, and manipulating datasets with `pandas`.
+- **`phase1.ipynb`**: This notebook covers how to work with data using `numpy` and `pandas`. It includes examples for creating arrays, basic mathematical operations, and manipulating datasets with `pandas`.
 
-## Phases 2, 3, and 4
+## Phases 2, 3, 4, 5, 6, 7
 
 Phases 2, 3, and 4 are currently under development and will include:
-- **Phase 2:** Data Preprocessing and Feature Engineering (Coming soon)
-- **Phase 3:** Model Building and Training (Coming soon)
-- **Phase 4:** Model Evaluation and Tuning (Coming soon)
+- **Phase 2:** Data Visualization and Basic Statistics (Coming soon)
+- **Phase 3:** Natural Language Processing (NLP) (Coming soon)
+- **Phase 4:** Web Scraping (Coming soon)
+- **Phase 5:** Time Series Analysis (Coming soon)
+- **Phase 6:** Deep Learning (Coming soon)
+- **Phase 7:** Building and Deploying AI Models (Coming soon)
 
 Stay tuned for updates!
 
