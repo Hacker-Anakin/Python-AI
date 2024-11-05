@@ -1,0 +1,19 @@
+numpy==1.26.3
+pandas==2.2.0
+matplotlib==3.9.0
+# scipy==1.13.1
+# ensorflow==2.16.1
+# tensorflow-intel==2.16.1
+# tensorboard==2.16.2
+# tensorboard-data-server==0.7.2
+# tensorboardX==2.6.2.2
+# torch==2.3.0
+# torchvision==0.18.0
+# torchaudio==2.3.0
+# torchmetrics==1.4.0.post0
+# nltk==3.8.1
+# pyspark==3.5.1
+# py4j==0.10.9.7
+# darts==0.29.0
+# beautifulsoup4==4.12.3
+# seaborn==0.13.2
